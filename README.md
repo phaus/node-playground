@@ -1,4 +1,4 @@
 node-playground
 ===============
 
-some nodejs example and tryouts
+some nodejs examples and tryouts
